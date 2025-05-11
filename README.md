@@ -4,3 +4,13 @@ Hi there! I'm Srushti Chavan — a passionate and driven student exploring the w
 
 ## Picture 
 ![Image](https://github.com/user-attachments/assets/76a7d7e4-4417-46b5-a4f0-1b1c25ea940c) 
+
+## LinkedIN
+https://www.linkedin.com/in/srushti-chavan64/
+
+## Contact 
+Email: ssc59@pitt.edu
+
+## Projects 
+
+
