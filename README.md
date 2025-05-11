@@ -12,5 +12,9 @@ https://www.linkedin.com/in/srushti-chavan64/
 Email: ssc59@pitt.edu
 
 ## Projects 
+Analyze the metric of safety to determine which neighborhood in Pittsburgh is the best[https://github.com/apostolikarpouzis/TeamMango]
+Fun website that shows different ice cream flavors and a retro ice cream stand design [https://github.com/ssc59/icecreamdreams]
+
+
 
 
